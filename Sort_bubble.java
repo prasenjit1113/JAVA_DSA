@@ -21,6 +21,7 @@ public class Sort_bubble {
 		 return a;
 	}	
 	 public static void main(String[] args) {
+		System.out.println("helloo I am checking github for updation...");
 		 Scanner sc=new Scanner(System.in);
 		 System.out.println("enter the number of data");
 		 int n=sc.nextInt();
